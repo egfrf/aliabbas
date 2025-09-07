@@ -1,5 +1,7 @@
-# Hi 👋, I'm Ali Abbas
-### A passionate Python & cross-platform developer from Iraq
+# Hi 👋, I'm Ali Abbas  <مطور برمجه تطبيقات اندرويد تطبيقات سطح المكتب تطبيقات ايفون تطبيقات ويندوز> 
+
+###Programmer Ali Abbas
+From Iraq, a multi-source application developer
 
 ---
 
